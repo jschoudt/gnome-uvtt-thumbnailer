@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="application/x-universal-vtt-file">
+    <comment>Universal Virtual Tabletop file format (https://arkenforge.com/universal-vtt-files/)</comment>
+    <glob pattern="*.dd2vtt"/>
+    <glob pattern="*.df2vtt"/>
+    <glob pattern="*.uvtt"/>
+  </mime-type>
+</mime-info>

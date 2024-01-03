@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=uvtt-thumbnailer.sh
+Exec=uvtt-thumbnailer.sh %i %s %o
+MimeType=application/x-universal-vtt-file;
