@@ -18,7 +18,7 @@ To setup/install this tool in your system settings (/share):
 1. Put the included shell script `uvtt-thumbnailer.sh` in `/usr/local/bin` and ensure the ownership/permissions are correct like:
     ```
     sudo cp uvtt-thumbnailer.sh /usr/local/bin
-    sudo chown root.root /usr/local/bin/uvtt-thumbnailer.sh
+    sudo chown root:root /usr/local/bin/uvtt-thumbnailer.sh
     sudo chmod 755 /usr/local/bin/uvtt-thumbnailer.sh
     ```
 1. Install the `universal-vtt-file.thumbnailer` on your system in /usr/share/thumbnailers` like:
